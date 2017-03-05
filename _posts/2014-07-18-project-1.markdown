@@ -17,4 +17,5 @@ Projeto Ecommerce VF Móveis. Loja de móveis de Piracicaba e Região.
 CMS Wodpress + Tema Storefront modificado.
 
 <strong>link para acessar o site completo:</strong> http://www.vfmoveis.com.br
+
 ---
