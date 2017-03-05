@@ -2,6 +2,7 @@
 layout: default
 modal-id: 4
 date: 2017-03-05
+title: Folder Quality Endi
 img: qualityendifolderfrentev2mockup.png
 alt: image-alt
 project-date: Jan 2017

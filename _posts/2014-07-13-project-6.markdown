@@ -2,11 +2,12 @@
 layout: default
 modal-id: 6
 date: 2017-03-05
+title: Site Liga Piracicabana de Futsal
 img: lpfs_site.png
 alt: image-alt
 project-date: Jan 2015
 client: Start Bootstrap
 category: Site Institucional
-description: Site para o projeto Sumula Online 2.0, para a matéria de estágio supervisionado do curso de Sistemas de Informação da UNIMEP(UNIVERSIDADE METODISTA DE PIRACICABA). Feito com CMS Wordpress e Tema Avada Premium.
+description: Site da Liga Piracicabana de Futsal, para o projeto Sumula Online 2.0, referente a matéria de estágio supervisionado do curso de Sistemas de Informação da UNIMEP(UNIVERSIDADE METODISTA DE PIRACICABA). Feito com CMS Wordpress e Tema Avada Premium.
 
 ---

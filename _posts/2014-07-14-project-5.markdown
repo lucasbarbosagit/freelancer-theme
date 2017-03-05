@@ -2,6 +2,7 @@
 layout: default
 modal-id: 5
 date: 2017-03-05
+title: Cartão de Visita VF Móveis 
 img: cartaodevisitavfmoveiscmockupfrente1.png
 alt: image-alt
 project-date: Jan 2017
