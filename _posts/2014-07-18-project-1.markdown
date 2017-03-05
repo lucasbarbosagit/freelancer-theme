@@ -8,6 +8,6 @@ alt: image-alt
 project-date: Jan 2017
 client: VF Móveis
 category: Ecommerce
-description: Info do Projeto: Projeto Ecommerce VF Móveis. Loja de móveis de Piracicaba e Região. Softwares usados no Projeto: CMS Wodpress + Tema Storefront modificado. link para acessar o site completo: http://www.vfmoveis.com.br
+description: teste
 
 ---
