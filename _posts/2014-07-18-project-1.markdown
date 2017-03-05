@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-15
+date: 2017-03-05
 title: VF Móveis Ecommerce
 img: vfmoveis_site.png
 alt: image-alt
