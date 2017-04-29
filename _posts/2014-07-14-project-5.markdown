@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 5
-date: 2017-03-05
-title: Cartão de Visita VF Móveis 
-img: cartaodevisitavfmoveiscmockupfrente1.png
+date: 2017-04-28
+title: 404 error - Página de Exemplo 
+img: 404page_spacesite.jpg
 alt: image-alt
-project-date: Jan 2017
-client: VF Móveis
-category: Cartão de Visita
-description: Cartão de visita feito para a empresa VF Móveis. Loja de móveis de Piracicaba e Região.
+project-date: Abril 2017
+client: Não Especificado
+category: Design de Interface
+description: Página de erro 404(somente exemplo) para um site com temática espacial.
 
 ---
