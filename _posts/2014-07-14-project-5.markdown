@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 date: 2017-04-28
 title: 404 error - Página de Exemplo 
-img: lfconsultoriasite_home.png
+img: 404page_spacesite.jpg
 alt: image-alt
 project-date: Abril 2017
 client: Não Especificado
