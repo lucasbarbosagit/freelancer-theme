@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2017-03-05
 title: Site Gela Mais Ar Condicionados
-img: gelamaisarcondicionadospiracicaba_site.png
+img: lfconsultoriasite_home.png
 alt: image-alt
 project-date: Jan 2017
 client: Gela Mais Ar Condicionados
