@@ -2,8 +2,8 @@
 title: Lucas Barbosa
 email: lucas.barbosa.work@hotmail.com
 url: https://lucasbarbosagit.github.io
-description: "Portfolio de Lucas Barbosa, contendo projetos envolvendo as áreas de Desenvolvimento Web e Design"
-skills: "Desenvolvedor Web e Designer"
+description: "Portfolio de Lucas Barbosa, contendo projetos envolvendo as áreas de Desenvolvimento Web e UI / UX Design"
+skills: "UI / UX Designer e Desenvolvedor Web"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -43,7 +43,7 @@ social:
   - title: behance
     url: https://www.behance.net/Lucas-Barbosa 
   - title: instagram
-    url: https://www.instagram.com/walking_on_the_sunn/
+    url: https://www.instagram.com/lucasbarbosa.me/
   - title: dribbble
     url: https://dribbble.com/lucasbarbosart
   #- title: stack-overflow
